@@ -35,7 +35,6 @@ function generarTablero(){
                         ${iconos[0]}
                     </div>
                     <div class="cara delantera">
-                        <i class="fa-regular fa-circle-question"></i>
                     </div>
                 </div>
             </div>
